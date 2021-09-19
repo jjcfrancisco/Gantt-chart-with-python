@@ -1,0 +1,16 @@
+﻿task,stage,start,end,completion
+Literature Review,Project Proposal,01/07/2021,31/08/2021,1
+Defining aims and objectives,Project Proposal,20/08/2021,31/08/2021,1
+EDA,Project Proposal,01/06/2021,10/06/2021,1
+App development,Project Proposal,10/06/2021,31/08/2021,1
+Simulation #1: run app,Project Proposal,31/08/2021,08/09/2021,1
+Deliverable: Project Proposal (write-up & submission),Project Proposal,01/10/2021,31/10/2021,1
+Explore & fix results from simulation #1,Progress Report 1,08/09/2021,08/11/2021,0.5
+Refine requirements (i.e. methodology),Progress Report 1,31/10/2021,23/11/2021,0.2
+Deliverable: Progress Report 1,Progress Report 1,23/11/2021,15/12/2021,0.1
+Simulation #2: run app based on new requirements,Progress Report 2,27/12/2021,15/01/2022,0
+Explore & fix results from simulation #2,Progress Report 2,15/01/2022,31/01/2022,0
+Deliverable: Progress Report 2 (write-up & submission),Progress Report 2,31/01/2022,28/02/2022,0
+Refine methodology based on new developments,Research paper,28/02/2022,14/03/2022,0
+Deployment of prototype app & final simulation,Research paper,14/03/2022,19/03/2022,0
+"Deliverable: Research Paper (write up, prof-read & submission)",Research paper,19/03/2022,30/04/2022,0
